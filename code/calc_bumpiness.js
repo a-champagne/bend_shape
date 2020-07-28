@@ -28,7 +28,7 @@ function calc_bumpiness(){
 	
 		}
 
-	outlet(0, bumpiness/10000);
+	messnamed("bumpiness", bumpiness/10000);
 	messnamed("flip", flip);
 	}
 	

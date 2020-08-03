@@ -1,0 +1,23 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "MBandPass",
+	"origin" : "MBandPass.vst",
+	"type" : "VST",
+	"subtype" : "MidiEffect",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "MBandPass.vst",
+		"plugindisplayname" : "MBandPass",
+		"pluginsavedname" : "",
+		"pluginsaveduniqueid" : 0,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"sliderorder" : [  ],
+		"slidervisibility" : [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+		"blob" : "345.CMlaKA....fQPMDZ....AzjPgAD...P.....A........................................DPG3ocWPFrZCCCDD8d9JDqu1ZKYIaKAVNPBIjCwTGRo8rSrhqnpREIkRne8kZS5gdcducXYpWd6CC5KkOncVIPRw.RYO6Fz1QIbMd4QNrrYQc6pd6PWeHDTwn1NFPIRf.njwdsUB3TFkUVvwE3BZEfR10sw1exnlk10sUBzTRAgUwpxEUkSgGj.AiATx9e4rTBSvK3DQNQLEdPBE4oBbtfVvYLJfV6rQuyXT9vb+CR.CnMC5nyeT+sRBkTwCTNGPs821u8oUF242mIzb.0phJeXsyX5+LnFNFUdka5I6LWG01mcNyod+eBSnWtOOBhHWTBM0y0j2T+pdH9VaS8Q2U+YEpyqtnMQkeZ9vPVSc1ckr6GsnN6+yYnYwOfezUmi"
+	}
+
+}

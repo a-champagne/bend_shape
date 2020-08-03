@@ -1,0 +1,23 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "MComb",
+	"origin" : "MComb.vst",
+	"type" : "VST",
+	"subtype" : "MidiEffect",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "MComb.vst",
+		"plugindisplayname" : "MComb",
+		"pluginsavedname" : "",
+		"pluginsaveduniqueid" : 0,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"sliderorder" : [  ],
+		"slidervisibility" : [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+		"blob" : "288.CMlaKA....fQPMDZ....AzzPu0F...P.....A..........................................43ocWP00RCCCE889qHb8U01ltMrPRFXY9zJNrh9b+3tZv6xcjjJC+0KzQEwWOew4bTaubhDeg9fkcZH+9LPftddv5F0vT73cO.aMIp5J9TW.iQqaLHtQC4fnhcQOSD5C6bscDNngLPravFYei8aTCkEqtcsr.D6eo4LYiQblHWCaVk8eToFjEqAQc6k8O87iD2+40TJjfnFinOTwD0dNfCMQzi7bMNPSiV2qLScs9eELS81xtJyKkka.i5ZLRi5c6P7iZipgm78n3fGOZoH5m2cFjZToKRRWLknR+6ODLI+voQh1L"
+	}
+
+}

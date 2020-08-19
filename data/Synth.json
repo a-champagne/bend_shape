@@ -1,0 +1,106 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Synth",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"button" : [ 1.0 ],
+					"button[1]" : [ 1.0 ],
+					"button[2]" : [ 1.0 ],
+					"button[3]" : [ 1.0 ],
+					"button[4]" : [ 1.0 ],
+					"button[5]" : [ 1.0 ],
+					"button[6]" : [ 1.0 ],
+					"gain~" : [ 0 ],
+					"gain~[1]" : [ 121 ],
+					"gain~[2]" : [ 121 ],
+					"gain~[3]" : [ 0 ],
+					"gain~[4]" : [ 0 ],
+					"matrixctrl" : [ 5, 2, 1, 6, 0, 1, 7, 1, 1 ],
+					"matrixctrl[1]" : [ 1, 0, 1 ],
+					"multislider" : [ 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ],
+					"multislider[1]" : [ 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ],
+					"number" : [ 50 ],
+					"number[1]" : [ 2 ],
+					"number[2]" : [ 0 ],
+					"toggle" : [ 0 ],
+					"toggle[10]" : [ 0 ],
+					"toggle[11]" : [ 0 ],
+					"toggle[12]" : [ 1 ],
+					"toggle[1]" : [ 0 ],
+					"toggle[2]" : [ 0 ],
+					"toggle[3]" : [ 1 ],
+					"toggle[4]" : [ 0 ],
+					"toggle[5]" : [ 0 ],
+					"toggle[6]" : [ 0 ],
+					"toggle[7]" : [ 0 ],
+					"toggle[8]" : [ 0 ],
+					"toggle[9]" : [ 0 ],
+					"umenu" : [ 0 ],
+					"umenu[1]" : [ 0 ],
+					"umenu[2]" : [ 0 ],
+					"umenu[3]" : [ 7 ],
+					"umenu[4]" : [ 8 ],
+					"umenu[5]" : [ 0 ],
+					"umenu[6]" : [ 4 ],
+					"umenu[7]" : [ 3 ],
+					"umenu[8]" : [ 1 ],
+					"vst~[1]" : [ 						{
+							"filetype" : "C74Snapshot",
+							"version" : 2,
+							"minorversion" : 0,
+							"name" : "MBandPass",
+							"origin" : "MBandPass.vst",
+							"type" : "VST",
+							"subtype" : "MidiEffect",
+							"embed" : 1,
+							"snapshot" : 							{
+								"pluginname" : "MBandPass.vst",
+								"plugindisplayname" : "MBandPass",
+								"pluginsavedname" : "",
+								"pluginsaveduniqueid" : 0,
+								"version" : 1,
+								"isbank" : 0,
+								"isbase64" : 1,
+								"sliderorder" : [  ],
+								"slidervisibility" : [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+								"blob" : "276.CMlaKA....fQPMDZ....AzjPgAD...P.....A..........................................13ocOOF0ZBCCEE9c+UDt80stljlpELJnnO0x5vwdOZtqDLl6HINj8qePKau98cNb3rd6iad12XL4nfF3kU.CCWHqKLpg64OedErcyh086LA6fIkRXN6BiIVgF3.qXz3BZntrsVI4BEvJ5FNDLm83rua3nFDkMxFQsXkRHlXuogkpRgrQ1vUpkJfsmB4H48XLMW2pgJfcv5xT7j6GTCUOUArdyitiutySWtNSkBf0iYLl1Sdu4qDZOkwHRS6O3uO5BuSj+rI9efI0G+c5VdqnsAdYyhew4B.Em"
+							}
+
+						}
+ ],
+					"vst~[2]" : [ 						{
+							"filetype" : "C74Snapshot",
+							"version" : 2,
+							"minorversion" : 0,
+							"name" : "SAFEReverb",
+							"origin" : "SAFEReverb.vst",
+							"type" : "VST",
+							"subtype" : "AudioEffect",
+							"embed" : 1,
+							"snapshot" : 							{
+								"pluginname" : "SAFEReverb.vst",
+								"plugindisplayname" : "SAFEReverb",
+								"pluginsavedname" : "/Library/Audio/Plug-Ins/VST/SAFEReverb.vst",
+								"pluginsaveduniqueid" : 0,
+								"version" : 1,
+								"isbank" : 0,
+								"isbase64" : 1,
+								"sliderorder" : [  ],
+								"slidervisibility" : [ 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+								"blob" : "351.CMlaKA....fQPMDZ....ALkQRYE..D.o....A........................................DvHVMjLgnQ....OSEjQEIUY1UlbhMUYzQWZtc1bf.UXxEVakQWYxASOh.iK2fyL2LiLwDiMxHiLyfSL0jSL3HBHPElbg0VYzUlbwziHv3BL1.CLxPCLwDCN3.SL0jyL2fCL0HiHf.UXxEVakQWYxISOh.iKybyLwLCMyPCM3DiMx.yM3fSM2PiHf.UXxEVakQWYxMSOh.iHf.UXxEVakQWYxQSOh.iKzfiL0DiLyTCM3TCL2XSNvPiL4biHf.UXxEVakQWYxUSOhDiHf.UXxEVakQWYxYSOhDiHf.UXxEVakQWYxcSOh.iK1.SMzHCNvPCLvHyM1DCNz.CNxHBHPElbg0VYzUlb3ziHv3BL3PCMzfSLvXSM3XSNyLSLyTSN3XiHu3C."
+							}
+
+						}
+ ],
+					"PolySynthControl::Synth[1]" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
